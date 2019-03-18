@@ -1,0 +1,2 @@
+可能需要更替  spider 12行代码中的data-v-x，可自行去网址 https://www.xiaoheihe.cn/games/index   F12 查看
+selector1 = response.xpath('//li[@data-v-68ed2416=""]')

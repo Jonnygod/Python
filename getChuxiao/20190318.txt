@@ -1,0 +1,40 @@
+{'Gname':'彩虹六号：围攻','discount':'-52%','price':'41.8','grade':'9.6'}
+{'Gname':'战锤：全面战争2','discount':'-70%','price':'79.2','grade':'9.6'}
+{'Gname':'猎天使魔女','discount':'-78%','price':'21.8','grade':'9.8'}
+{'Gname':'Fate/EXTELLA','discount':'-56%','price':'57.4','grade':'9.0'}
+{'Gname':'战锤：全面战争','discount':'-78%','price':'47.9','grade':'9.4'}
+{'Gname':'NBA 2K19','discount':'-71%','price':'56.5','grade':'8.2'}
+{'Gname':'欧陆风云4','discount':'-78%','price':'24.4','grade':'9.4'}
+{'Gname':'双点医院','discount':'-42%','price':'91.3','grade':'8.8'}
+{'Gname':'闪乱神乐：少女们的选择','discount':'-56%','price':'48.7','grade':'9.6'}
+{'Gname':'逃生','discount':'-82%','price':'12.2','grade':'9.8'}
+{'Gname':'罗马2：全面战争 - 帝皇版','discount':'-78%','price':'33.9','grade':'9.0'}
+{'Gname':'无尽空间2','discount':'-71%','price':'37.4','grade':'9.2'}
+{'Gname':'流放者柯南','discount':'-56%','price':'55.7','grade':'9.0'}
+{'Gname':'足球经理2019','discount':'-41%','price':'115.7','grade':'9.0'}
+{'Gname':'胡闹厨房','discount':'-71%','price':'16.5','grade':'9.6'}
+{'Gname':'秋叶原之旅2','discount':'-65%','price':'30.4','grade':'8.8'}
+{'Gname':'F1 2018','discount':'-78%','price':'35.7','grade':'8.8'}
+{'Gname':'东方红辉心','discount':'-47%','price':'26.1','grade':'9.4'}
+{'Gname':'光明之响','discount':'-70%','price':'67.0','grade':'7.2'}
+{'Gname':'石油大亨','discount':'-34%','price':'23.5','grade':'9.2'}
+{'Gname':'足球经理2019 Touch','discount':'-41%','price':'77.4','grade':'5.8'}
+{'Gname':'工人与资源：苏维埃共和国','discount':'-17%','price':'66.1','grade':'7.8'}
+{'Gname':'史莱姆牧场','discount':'-56%','price':'29.6','grade':'9.6'}
+{'Gname':'樱之杜†净梦者 2','discount':'-39%','price':'49.6','grade':'8.6'}
+{'Gname':'阿提拉：全面战争','discount':'-78%','price':'26.1','grade':'9.0'}
+{'Gname':'凯瑟琳','discount':'-35%','price':'80.9','grade':'9.2'}
+{'Gname':'揍击派对','discount':'-42%','price':'28.7','grade':'9.0'}
+{'Gname':'工业小镇','discount':'-21%','price':'54.8','grade':'8.0'}
+{'Gname':'全面战争传奇：不列颠的王座','discount':'-56%','price':'77.4','grade':'7.6'}
+{'Gname':'绝对征服','discount':'-78%','price':'21.8','grade':'8.8'}
+{'Gname':'西部狂徒','discount':'-35%','price':'45.2','grade':'5.8'}
+{'Gname':'闪乱神乐Burst 重制版','discount':'-22%','price':'90.5','grade':'8.2'}
+{'Gname':'樱之杜†净梦者 完全版','discount':'-56%','price':'38.3','grade':'9.2'}
+{'Gname':'无尽传奇','discount':'-78%','price':'19.1','grade':'8.8'}
+{'Gname':'闪乱神乐：少女们的证明','discount':'-56%','price':'38.3','grade':'9.4'}
+{'Gname':'拿破仑：全面战争','discount':'-43%','price':'57.8','grade':'9.4'}
+{'Gname':'永远消失的幻想乡','discount':'-35%','price':'50.5','grade':'9.4'}
+{'Gname':'超级情圣2','discount':'-45%','price':'23.5','grade':'8.4'}
+{'Gname':'索尼克世代','discount':'-78%','price':'14.8','grade':'9.4'}
+{'Gname':'英雄连','discount':'-78%','price':'14.8','grade':'9.2'}
